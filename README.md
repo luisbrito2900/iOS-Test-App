@@ -48,17 +48,6 @@ This project is designed for experimentation, learning, and testing purposes.
   Cmd + U
   ```
 
-## 📂 Project Structure
-
-ItemApp-end/
-│
-├── ItemApp/ # Main app source code
-├── ItemAppTests/ # Unit tests
-├── ItemAppUITests/ # UI tests (XCUITest)
-├── ItemApp.xcodeproj # Xcode project file
-├── ItemApp.xctestplan # Xcode test plan
-└── .gitignore # Git ignore rules
-
 ## 🙌 Contributing
 
 This project is mainly for testing.
