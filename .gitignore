@@ -1,0 +1,36 @@
+# Xcode files
+*.xcuserstate
+*.xcworkspace
+xcuserdata/
+DerivedData/
+*.xccheckout
+*.xcscmblueprint
+
+# Build products
+build/
+*.o
+*.LinkFileList
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Swift Package Manager
+/.build/
+.swiftpm/xcode
+
+# System files
+.DS_Store
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+
+# Keys / Sensitive files
+*.env
+*.mobileprovision
+*.p12
