@@ -1,7 +1,7 @@
 # iOS Test App
 
 A simple iOS test application built with **Xcode**.  
-This project is designed for experimentation, learning, and testing purposes.
+This project is designed for testing purposes.
 
 ---
 
@@ -47,7 +47,3 @@ This project is designed for experimentation, learning, and testing purposes.
   ```bash
   Cmd + U
   ```
-
-## 🙌 Contributing
-
-This project is mainly for testing.
